@@ -1,5 +1,5 @@
 [github_profile_readme.md](https://github.com/user-attachments/files/33648899/github_profile_readme.md)
-# Hi there 👋 I'm Gitmoney313
+# What up Doe 👋 I'm Gitmoney313
 
 Welcome to my profile! I'm an AI & open-source developer building developer utilities, quantitative reasoning models, and LLM infrastructure.
 
