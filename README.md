@@ -1,4 +1,4 @@
- # Hi there 👋 I'm Gitmoney313
+# Hi there 👋 I'm Gitmoney313
 
     Welcome to my GitHub profile! I'm an AI & software enthusiast exploring
   open-source tools and LLMs.
@@ -15,6 +15,7 @@
 
     #### [⚡ LLM Tokenizer Arena & Context Inspector](https://huggingface.
   co/spaces/gitmoney313/llm-tokenizer-arena)
+
     An interactive workbench for analyzing, benchmarking, and visualizing
   tokenization, chat templates, and KV-cache memory footprints across modern
   open LLMs (Qwen 2.5, Llama 3.2, Gemma 2, DeepSeek, and Mistral).
@@ -29,3 +30,6 @@
 
     👉 **[Try the live app on Hugging Face](https://huggingface.
   co/spaces/gitmoney313/llm-tokenizer-arena)**
+
+  Once you paste this in and click Commit changes, the badge, clickable
+  links, and icons will render properly on your profile!
